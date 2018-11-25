@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "oferentes_scoring_previo_concreto",
+    "name": "oferentes_scoring_previo",
+	"address": "be.nidoo.co/api/offering/scoring/previous",
+	"tags": [
+        "scoring","previous","history","administration","calificación","previo","histórico","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para guardar el Scoring anterior del oferente, histórico"
+    },
+    "port": 9131,
+    "connect": {
+      
+    }
+  }
+}

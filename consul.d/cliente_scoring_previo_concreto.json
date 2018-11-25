@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "cliente_scoring_previo_concreto",
+    "name": "cliente_scoring_previo",
+	"address": "be.nidoo.co/api/client/scoring/previous",
+	"tags": [
+        "scoring","previous","history","administration","calificación","previo","histórico","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para guardar el Scoring anterior del cliente, histórico"
+    },
+    "port": 9151,
+    "connect": {
+      
+    }
+  }
+}

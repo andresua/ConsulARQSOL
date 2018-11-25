@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "vehiculos_asignacion_concreto",
+    "name": "vehiculos_asignacion",
+	"address": "be.nidoo.co/api/vehicles/allocation",
+	"tags": [
+        "allocation","asignación"
+      ],
+    "meta": {
+      "meta": " Servicio para asignar los vehículos a los usuarios"
+    },
+    "port": 9261,
+    "connect": {
+      
+    }
+  }
+}

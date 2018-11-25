@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "vehiculos_caracteristicas_concreto",
+    "name": "vehiculos_caracteristicas",
+	"address": "be.nidoo.co/api/vehicles/characteristics",
+	"tags": [
+        "characteristics","características"
+      ],
+    "meta": {
+      "meta": "Servicio para administrar las características de un vehículo"
+    },
+    "port": 9281,
+    "connect": {
+      
+    }
+  }
+}

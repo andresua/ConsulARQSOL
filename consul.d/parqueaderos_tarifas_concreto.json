@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "parqueaderos_tarifas_concreto",
+    "name": "parqueaderos_tarifas",
+	"address": "be.nidoo.co/api/parking/rate",
+	"tags": [
+        "rate","tarifa"
+      ],
+    "meta": {
+      "meta": "Servicio para administrar las tarifas por tipos de cliente o vehículo y por tiempo de uso"
+    },
+    "port": 9201,
+    "connect": {
+      
+    }
+  }
+}

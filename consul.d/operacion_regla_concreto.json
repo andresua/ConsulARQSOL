@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "operacion_regla_concreto",
+    "name": "operacion_regla",
+	"address": "be.nidoo.co/api/rule",
+	"tags": [
+        "rule","administration","execution","regla","reglas","administracion","CRUD","motor reglas"
+      ],
+    "meta": {
+      "meta": "Servicio para la administración y procesamiento de reglas de negocio"
+    },
+    "port": 9091,
+    "connect": {
+      
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "vehiculos_registro_concreto",
+    "name": "vehiculos_registro",
+	"address": "be.nidoo.co/api/vehicles/registry",
+	"tags": [
+        "registry","registro"
+      ],
+    "meta": {
+      "meta": "Servicio para registrar los vehículos"
+    },
+    "port": 9271,
+    "connect": {
+      
+    }
+  }
+}

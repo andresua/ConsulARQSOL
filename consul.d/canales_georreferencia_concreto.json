@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "canales_georreferencia_concreto",
+    "name": "canales_georreferencia",
+	"address": "be.nidoo.co/api/georreferenciacion",
+	"tags": [
+        "map","maps","geolocalization","geocalización","gps"
+      ],
+    "meta": {
+      "meta": "Servicio para obtener los mapas y la ubicación del usuario"
+    },
+    "port": 9291,
+    "connect": {
+      
+    }
+  }
+}

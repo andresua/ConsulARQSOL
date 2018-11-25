@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "parqueaderos_reserva_concreto",
+    "name": "parqueaderos_reserva",
+	"address": "be.nidoo.co/api/parking/reservation",
+	"tags": [
+        "reservation","reserva"
+      ],
+    "meta": {
+      "meta": "Servicio para reservar un espacio de parqueo"
+    },
+    "port": 9221,
+    "connect": {
+      
+    }
+  }
+}

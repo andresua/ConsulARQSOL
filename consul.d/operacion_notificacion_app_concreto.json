@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "operacion_notificacion_app_concreto",
+    "name": "operacion_notificacion_app",
+	"address": "be.nidoo.co/api/notification",
+	"tags": [
+        "notification", "app","administration","notificación","notificaciones","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para enviar notificaciones push a través de la app"
+    },
+    "port": 9111,
+    "connect": {
+      
+    }
+  }
+}

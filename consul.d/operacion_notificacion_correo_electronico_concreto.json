@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "operacion_notificacion_correo_electronico_concreto",
+    "name": "operacion_notificacion_correo_electronico",
+	"address": "be.nidoo.co/api/notification/email",
+	"tags": [
+        "notification", "email","administration","notificación","notificaciones","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para enviar notificaciones push a través del correo electrónico"
+    },
+    "port": 9241,
+    "connect": {
+      
+    }
+  }
+}

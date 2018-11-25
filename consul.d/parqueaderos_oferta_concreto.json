@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "parqueaderos_oferta_concreto",
+    "name": "parqueaderos_oferta",
+	"address": "be.nidoo.co/api/parking/offering",
+	"tags": [
+        "offering","oferta"
+      ],
+    "meta": {
+      "meta": "Servicio para administrar la oferta de espacios de parqueo por parqueadero"
+    },
+    "port": 9211,
+    "connect": {
+      
+    }
+  }
+}

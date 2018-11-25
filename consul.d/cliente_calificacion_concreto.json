@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "cliente_calificacion_concreto",
+    "name": "cliente_calificacion",
+	"address": "be.nidoo.co/api/client/scoring",
+	"tags": [
+        "scoring","current","administration","calificación","actual","histórico","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para guardar y consultar el Scoring actual del cliente"
+    },
+    "port": 9161,
+    "connect": {
+      
+    }
+  }
+}

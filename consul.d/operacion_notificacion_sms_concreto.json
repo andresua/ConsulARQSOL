@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "operacion_notificacion_sms_concreto",
+    "name": "operacion_notificacion_sms",
+	"address": "be.nidoo.co/api/notification/sms",
+	"tags": [
+        "notification", "sms","administration","notificación","notificaciones","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para enviar notificaciones push a través de mensajes de texto"
+    },
+    "port": 9251,
+    "connect": {
+      
+    }
+  }
+}

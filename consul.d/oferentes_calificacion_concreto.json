@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "oferentes_calificacion_concreto",
+    "name": "oferentes_calificacion",
+	"address": "be.nidoo.co/api/offering/scoring",
+	"tags": [
+        "scoring","current","administration","calificación","actual","histórico","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para guardar y consultar el Scoring actual del oferente"
+    },
+    "port": 9141,
+    "connect": {
+      
+    }
+  }
+}

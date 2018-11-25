@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "parqueaderos_ocupacion_concreto",
+    "name": "parqueaderos_ocupacion",
+	"address": "be.nidoo.co/api/parking/ocupancy",
+	"tags": [
+        "vacancy","ocupancy"
+      ],
+    "meta": {
+      "meta": "Servicio para consultar la ocupación de los espacios de parqueo en un parqueadero"
+    },
+    "port": 9171,
+    "connect": {
+      
+    }
+  }
+}

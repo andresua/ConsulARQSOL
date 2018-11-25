@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "parqueaderos_liberacion_concreto",
+    "name": "parqueaderos_liberacion",
+	"address": "be.nidoo.co/api/parking/freeing",
+	"tags": [
+        "free","freeing"
+      ],
+    "meta": {
+      "meta": "Servicio para liberar un espacio de parqueo"
+    },
+    "port": 9181,
+    "connect": {
+      
+    }
+  }
+}

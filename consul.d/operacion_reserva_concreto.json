@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "operacion_reserva_concreto",
+    "name": "operacion_reserva",
+	"address": "be.nidoo.co/api/reservation",
+	"tags": [
+        "reservation","administration","execution","reserva","reservas","administracion","CRUD"
+      ],
+    "meta": {
+      "meta": "Servicio para la reserva de espacios de parqueo"
+    },
+    "port": 9101,
+    "connect": {
+      
+    }
+  }
+}

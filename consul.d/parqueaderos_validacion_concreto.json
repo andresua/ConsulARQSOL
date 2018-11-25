@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "parqueaderos_validacion_concreto",
+    "name": "parqueaderos_validacion",
+	"address": "be.nidoo.co/api/parking/validation",
+	"tags": [
+        "validation","validación"
+      ],
+    "meta": {
+      "meta": "Servicio para validar las condiciones de un parqueadero con respecto al vehículo que se intenta ingresar"
+    },
+    "port": 9191,
+    "connect": {
+      
+    }
+  }
+}

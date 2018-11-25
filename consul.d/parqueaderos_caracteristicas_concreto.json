@@ -1,0 +1,17 @@
+{
+  "service": {
+	"id": "parqueaderos_caracteristicas_concreto",
+    "name": "parqueaderos_caracteristicas",
+	"address": "be.nidoo.co/api/parking/characteristics",
+	"tags": [
+        "characteristics","características"
+      ],
+    "meta": {
+      "meta": "Servicio para obtener las caracteristicas de un espacio de parqueo"
+    },
+    "port": 9231,
+    "connect": {
+      
+    }
+  }
+}
